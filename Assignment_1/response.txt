@@ -1,0 +1,5 @@
+1. The web refers to the nonlinear connections between information layed out in these networks so that you could find information on something from anywhere else. The internet refers to the connection between the operating systems used to aquire this information.
+2. The internet works by shooting out packets of information to various relay stations that bounce off each other to eventually direct your information or search to the appropriate IP address
+3. A directory is a management system for files, it serves as a location for various files and as an easy way to access and group them.
+4. VCS allows creators to see all of the changes they have made in a linear fashion, as well as giving them the ability to undo changes by reverting to the previous version if a mistake happens. 
+5. I did not realive that all the text in a long web address is refering to the folders the files are stored in, like a trail for your computer to follow leading to the correct follow
